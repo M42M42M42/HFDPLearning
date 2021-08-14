@@ -1,6 +1,6 @@
-package main.java.FlyBehaviors.impl;
+package strategy.miniducksimulator.FlyBehaviors.impl;
 
-import main.java.FlyBehaviors.FlyBehavior;
+import strategy.miniducksimulator.FlyBehaviors.FlyBehavior;
 
 /**
  * Author: XLee

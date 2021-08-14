@@ -1,7 +1,8 @@
-package main.java;
+package strategy.miniducksimulator;
 
-import main.java.FlyBehaviors.impl.FlyNoWay;
-import main.java.QuackBehaviors.impl.Squeak;
+
+import strategy.miniducksimulator.FlyBehaviors.impl.FlyNoWay;
+import strategy.miniducksimulator.QuackBehaviors.impl.Squeak;
 
 /**
  * Author: XLee

@@ -1,6 +1,6 @@
-package main.java.QuackBehaviors.impl;
+package strategy.miniducksimulator.QuackBehaviors.impl;
 
-import main.java.QuackBehaviors.QuackBehavior;
+import strategy.miniducksimulator.QuackBehaviors.QuackBehavior;
 
 /**
  * Author: XLee

@@ -1,4 +1,4 @@
-package main.java.QuackBehaviors;
+package strategy.miniducksimulator.QuackBehaviors;
 
 /**
  * Author: XLee

@@ -1,16 +1,14 @@
-package main.test;
+package strategy.miniducksimulator;
 
-import main.java.Duck;
-import main.java.FlyBehaviors.impl.FlyRocketPowered;
-import main.java.MallardDuck;
-import main.java.ModelDuck;
+
+import strategy.miniducksimulator.FlyBehaviors.impl.FlyRocketPowered;
 
 /**
  * Author: XLee
  * Date: 2021/8/12 19:25
  * Description:
  */
-public class DuckSimu {
+public class MiniDuckSimulator {
     public static void main(String[] args) {
         Duck mallard = new MallardDuck();
         mallard.display();

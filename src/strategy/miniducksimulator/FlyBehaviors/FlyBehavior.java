@@ -1,4 +1,4 @@
-package main.java.FlyBehaviors;
+package strategy.miniducksimulator.FlyBehaviors;
 
 /**
  * Author: XLee
